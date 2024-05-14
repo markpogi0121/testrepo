@@ -1,0 +1,644 @@
+01:04:28	Lily Nguyen:	Welcome everybody to the first webinar for the Introduction to CyberOps short course! Your mentor for this course is Matt Constable.
+01:04:49	Saber Oujani:	Hi everyone
+01:04:53	Jason Brown:	Evening all
+01:04:54	darkn raps:	hello
+01:04:59	Jessica Walker:	hi
+01:04:59	talha idrees:	Welcome welcome thanks
+01:05:04	M Frewen:	Hey
+01:05:04	talha idrees:	Au sydney
+01:05:05	Jayfrill Virgener naya:	Good Evening Everyone!
+01:05:06	Blu Corbel:	Morning everyone from Scotland UK.
+01:05:07	zeshan Hameed:	hi
+01:05:07	MUHITUR RAHMAN CHOWDHURY:	Good evening evryone
+01:05:07	darkn raps:	im from sydney
+01:05:07	Esteban Porras:	Thanks!
+01:05:08	Akhilesh Das:	hello.. from Sydney
+01:05:09	T B:	Wet day in Adelaide too!
+01:05:09	Kusala Dehiwala Liyanage:	Hi everyone im tuning in from Papua New Guinea
+01:05:09	Andrew Robertson:	Hello from rainy Melbourne
+01:05:10	Jason Brown:	Jason Brown - Melbourne AU
+01:05:10	Benjamin Stokes Stokes:	I am from Bunbury Western Australia and it is a scary place because of all the bogans
+01:05:10	Laura Lees:	hi all,  Laura from Singapore
+01:05:11	Madeline Gill:	Hello from Canberra
+01:05:12	James Troup:	Hey
+01:05:12	Anand Ashish:	Hello, I’m Anand from Sydney
+01:05:12	K Pham:	HHHHEEEELLLLOOOOOOOO!!!!!!!!!!
+01:05:13	hong phung:	Hi all, from Sydney
+01:05:15	Hibin Maheendran:	Good evening
+01:05:15	K Pham:	ADEL!!!!!!!
+01:05:17	Amir Wallah Rai:	Pakistan
+01:05:17	Jibril Dauda Muhammad:	Hello Nigeria
+01:05:17	Esteban Porras:	From Brisbane
+01:05:18	Collins Amoako Ofori-Atta:	Hi
+01:05:19	Rose Anne Sampaga:	Helloo everyone
+01:05:19	Elias Mane:	good morning everyone, am Elias Mane from Ghana 🇬🇭, glad to connect on this call.
+01:05:20	David Hughes:	Hello all David from Hobart in Tasmania, Australia
+01:05:20	HS yap:	Good wet evening from Kuala Lumpur
+01:05:20	Daniel Okonokhua:	Hello
+01:05:21	Martin Devasia:	Hi all I am from Melbourne
+01:05:21	david WOJCIK:	Hello from Canberra
+01:05:21	Tim S:	hello from hot, very humid Sydney
+01:05:21	Daniel Jesus Navas Montero:	Helow from Spain
+01:05:22	Robin van Bergen:	Hello from the Byron Bay hinterlands
+01:05:23	Anuj R:	India
+01:05:24	Mohammed Naseem:	Mohammed from Sydney
+01:05:24	James-Patrick Riley:	Greetings from Sydney
+01:05:24	cory McInnes:	Canberra born and raised
+01:05:24	darkn raps:	shoutout xtwizzy on kick
+01:05:24	Muddasir Khan:	hi from sydney
+01:05:25	Paul Britton:	Hi from humid Sydney....
+01:05:25	Emmanuel Otika:	Hello everyone. Glad to be here!
+01:05:26	Michael Raynor:	Hello from Perth
+01:05:27	Muniyappan Venkatesan:	Hi all
+01:05:28	Dominic Ehiwe:	hi from Lagos
+01:05:29	Emeka Osuocha:	Lagos Nigeria
+01:05:29	Juan Jose Cross:	Good evening from Toowoomba
+01:05:31	Laurent Perez:	Hi from Nungwall country
+01:05:34	Rose Anne Sampaga:	Im from Philippines
+01:05:35	Livinus Enoja:	Hello from /ireland
+01:05:35	aakriti shrestha:	Hi all
+01:05:35	Kerilyn Lalor:	Hello!
+01:05:35	Andrew Stewart:	Hi All
+01:05:36	Jayalakshmi Ponnurangan:	hi
+01:05:36	Troy Paterson:	Hi from the Gold Coast
+01:05:36	Jason Nash:	G'day all, from Melbourne
+01:05:37	Dash Amr:	Hi Dash from the wet Melbourne 😂
+01:05:38	Patricia Mc Gurren:	Hi from sweaty Brisbane!
+01:05:39	Sharmin Provhat:	Hi Everyone, I am from Perth.
+01:05:41	Daniel Okonokhua:	Daniel here in Vietnam
+01:05:43	Micahyah Morgan Ewusie:	hello happy to join all the way from Ghana
+01:05:43	Zar Ni Phyoe:	Hello
+01:05:43	Pierre Spano:	Hi from Sydney
+01:05:44	Collins Amoako Ofori-Atta:	From Accra, Ghana
+01:05:45	Kusala Dehiwala Liyanage:	im from Papua New Huinea
+01:05:45	Gamah:	Hello everyone.
+01:05:46	Muniyappan Venkatesan:	Happy to join from Canada
+01:05:47	darkn raps:	hows the weather in brissy
+01:05:49	Brett Sander:	Hi from Adelaide
+01:05:49	Salahdine AFFOUN:	Hi all, from Algeria , it's 10 AM
+01:05:49	Andrew Stewart:	Toowoomba Qld
+01:05:51	Thabiso Pheko:	Hi from Maseru Lesotho
+01:05:52	Sharon Lim:	Hi from Sydney Aus
+01:05:53	James Taiwo Allison:	Hi everyone, James from Benin City, Nigeria
+01:05:54	John Mire:	Greetings! from Louisiana
+01:05:55	Jessica Walker:	🤪
+01:05:56	Elias Mane:	Greetings from Ghana 🇬🇭
+01:05:56	Jephthah Yusuf:	Hello from 🇳🇬
+01:05:56	Kaden Davis:	Hello everyone. I'm originally from the UK, but am living in Sydney. Sure was a hot day
+01:05:57	Karuna Awal:	hello .its me karuna from Nepal
+01:06:00	darkn raps:	😍
+01:06:03	Zar Ni Phyoe:	😁
+01:06:03	Nelson Guillen:	Hi from Manila
+01:06:04	Margaret Keast:	Hi from Sydney
+01:06:09	Jessica Walker:	😎
+01:06:11	Amir Wallah Rai:	Hi I am from Pakistan and its 2 PM here
+01:06:12	Kusala Dehiwala Liyanage:	So many people
+01:06:14	P T:	Hi everyone
+01:06:15	Gerard:	Hello, Gerard from Rainy Melbourne
+01:06:15	Molly Barrot:	Hello from Melbourne!
+01:06:17	Jessica Walker:	👹
+01:06:21	Angela Dimos:	Good Evening everyone
+01:06:22	darkn raps:	😤
+01:06:23	Chris Hughes:	Hi from Townsville, watching a bit of wind in the trees!
+01:06:24	Jephthah Yusuf:	hello from 🇳🇬
+01:06:31	Kusala Dehiwala Liyanage:	:)
+01:06:37	Mat Sanchez:	Melbourne
+01:06:44	Gamah:	Gamah here, from Ghana
+01:06:47	Jason Bennett:	Hi from Perth W.A
+01:06:48	Aung Kyaw:	Hello from Sydney!
+01:06:48	Juan Jose Cross:	Can anyone hear anything?
+01:06:52	Nik:	hi from Sydney
+01:06:53	Ayodele .:	Hello from Nigeria!
+01:06:56	Mark Kirk:	Hey from Sydney
+01:06:58	Lily Nguyen:	The webinar will be starting shortly!
+01:06:59	Clinton Greer:	Clint from Bathurst
+01:07:01	Benjamin Fitzpatrick:	Hello from Toowoomba
+01:07:04	Blu Corbel:	Love online learning because of the worldly diversity.
+01:07:04	Steve Punitham:	howdy from adelaide
+01:07:04	MUHITUR RAHMAN CHOWDHURY:	From Sydney
+01:07:05	Dilanja Kodituwakku:	Hi, from rainy Melbourne
+01:07:06	Juan Jose Cross:	Ok
+01:07:06	Libin Antony:	Hi Everyone, Libin from Melbourne
+01:07:07	Kusala Dehiwala Liyanage:	🤗
+01:07:07	Emem Umoh:	Emem from Ghana
+01:07:10	Christian Slaven:	Hello from 🇼🇸
+01:07:35	Collins Kiptoo:	Kip from Nairobi, Kenya.
+01:07:38	Andrew Rae:	Ahoy from sydney
+01:07:40	Romar Mayer Micabalo:	Hello, from the Philippines
+01:07:42	David Reuben:	G'day from Canberra
+01:07:52	darkn raps:	man ive been busy working on my sql server all day its a relief im here today
+01:07:53	jeffrey Phuah:	This new system of login to the webinar sucks!
+01:07:58	Samuel Agorvor Attah:	Hi everyone, Greetings from Accra -Ghana 🇬🇭
+01:08:04	Kusala Dehiwala Liyanage:	Put a thumbs up if you have done another course from IT Masters 👍
+01:08:04	Simon Goldfinch:	Greetings and salutations
+01:08:08	Lily Nguyen:	Welcome everybody to the first webinar for the Introduction to CyberOps short course! Your mentor for this course is Matt Constable.
+01:08:15	Jessica Walker:	🫶
+01:08:36	Kehinde Adebisi:	Hi Everyone
+01:08:45	sylvie UWAMAHORO:	Hello from Rwanda
+01:09:02	Patrick Tsang:	Hello from Sydney!
+01:09:03	Rob B:	Matt C - the GOAT
+01:09:04	Abdalla Mohamed:	hello from sudan🫶
+01:09:08	Mr. Nabin:	hello from Sydney
+01:09:09	Minh Trinh:	Hi from Brisbane
+01:09:13	Michael Mensah:	Greetings from 🇬🇭🇬🇧
+01:09:33	Lily Nguyen:	Make sure to set your chat to ‘Everyone’ if you’d like to connect with your fellow attendees. If you have a question for the mentor, be sure to post it in the Q&A section.
+01:09:50	Ayad Shno:	Hi all
+01:09:54	darkn raps:	no worries lily
+01:09:59	Lily Nguyen:	👋
+01:10:09	Kusala Dehiwala Liyanage:	👋
+01:10:13	Bryce Wojtowicz:	😎
+01:10:40	Owais Farooqi:	Greetings everyone
+01:10:53	Lily Nguyen:	If you need, you can hide the chat by popping it out and hiding the window behind another or offscreen. 🙂
+01:11:02	Emmanuel Otika:	@Shane your voice seems to be fluctuating: high volume and lower volume.
+01:11:49	Laura Lees:	👍
+01:12:03	Benjamin Stokes Stokes:	Thanks Lily
+01:12:10	Lily Nguyen:	🤗
+01:12:36	Jude Okechukwu Nwankwo:	Hey
+01:12:41	Techy Cyber:	Hi
+01:12:51	vinal ram:	Hi
+01:12:57	Jessica Walker:	hi
+01:13:20	Shylini Narayan:	Hi
+01:13:22	T B:	🥳
+01:13:23	vinal ram:	hello mat
+01:13:25	Andrew Stewart:	hey Matt
+01:13:29	K Pham:	👋
+01:13:30	Martin Devasia:	Hello Mat
+01:13:33	Blu Corbel:	Hi
+01:13:34	Phu Nguyen:	good evening
+01:13:36	Kerilyn Lalor:	Thanks Shane, Hi Matt!
+01:13:37	Kusala Dehiwala Liyanage:	HI matt
+01:13:38	Ayad Shno:	Hello Matt
+01:13:38	Ritesh Shrestha:	Hello
+01:13:41	Tim S:	👏🏼
+01:13:46	Samuel Agorvor Attah:	hello Mat
+01:13:48	Lily Nguyen:	Remember, to set your chat to ‘Everyone’ if you’d like to connect with your peers.
+01:13:48	Shyra May Lainez:	Hi everyone (wave)
+01:14:00	Shyra May Lainez:	Hi everyone (wave)
+01:14:01	Muddasir Khan:	hi matt
+01:14:08	Ash Bennett:	Hi everyone :)
+01:14:10	Ritesh Shrestha:	Hello Matt
+01:14:12	Warren Chung:	Hi Everyone!
+01:14:20	Akash Prabhakaran:	Hello!
+01:14:21	Rayyan Ahmad:	Hi
+01:14:23	talha idrees:	Happy soon Australia day guys
+01:14:25	Benjamin Stokes Stokes:	Hi Bryce
+01:14:26	Richard Patterson:	G'day from Brisbane
+01:14:30	Benjamin Stokes Stokes:	Good to see you again
+01:14:46	Alex Mawia:	Hello.
+01:14:46	Job Simukonda:	Hi
+01:15:02	Andrew Stewart:	where did the name Crickey come from? Research question for you.
+01:15:08	Robin van Bergen:	Sorry: I've found a deadlink on the Module 1 resources under Incident Response:  http://www.incidentresponse.org/playbooks/
+01:15:11	Andrew Stewart:	*Cricket
+01:15:43	Kusala Dehiwala Liyanage:	Middle Dutch Krcik
+01:15:48	Kusala Dehiwala Liyanage:	Krick
+01:15:52	Kusala Dehiwala Liyanage:	?
+01:15:54	Shane Murphy:	Thanks @robin  - we will check that out.
+01:16:25	leeroy mkandawire:	hi every good to be here
+01:16:34	gauri sethi:	Hi everyone
+01:16:38	Kirk Dugdell:	hi all
+01:17:55	Rob B:	That link works for me
+01:18:09	Hibin Maheendran:	How long do we have to learn the complete topics and take the exam ?
+01:18:23	Kusala Dehiwala Liyanage:	4 weeks
+01:18:39	Kikomeko patrick kato:	Share the link hea please
+01:19:00	Hibin Maheendran:	4 weeks is the course right, so do we have any time frame, to finish the exam ?
+01:19:07	Mat Sanchez:	how long does the cisco certificate last for ?
+01:19:08	Lily Nguyen:	After the final webinar, the exam will always be open, so take it whenever you feel ready after completing all of the material! You'll have 1 attempt and 1 hour.
+01:19:15	Rob B:	The exam doesn't expire.  You can do it any time
+01:19:36	Lily Nguyen:	All webinar materials (slides, video, etc.) will be made available within 24 hours at http://learn.itmasters.edu.au
+01:20:11	Akash Prabhakaran:	Hi, is the final exam different from the CISCO certificate or is it the same exam
+01:20:23	Levi:	For financial institutions in Australia, the responsibility relies on the board and they are held accountable now :)
+01:22:01	Lily Nguyen:	Hi Akash, you won't receive any industry qualifications after this short course - if you pass the final exam you'll receive a Certificate of Completion.
+01:22:33	Sharmin Provhat:	But how can I get the materials, like do I need to have any user Id and password?
+01:22:46	Shane Murphy:	Hi Akash, Matt just explained that it covers only a part of the full CyberOPs certificate so no it is not the same.
+01:22:59	Lily Nguyen:	Hi Sharmin, have you registered here? https://itmasters.edu.au/short-courses/introduction-to-cyberops/
+01:23:14	Dash Amr:	Can we redo the course final exam ?
+01:23:27	Kusala Dehiwala Liyanage:	Sadly Not
+01:23:49	Jason Brown:	Speaking as a manager, Certificates of Completion are still valuable! (Lily/Akash)
+01:24:10	Lily Nguyen:	You'll only get 1 hour and 1 attempt at the final exam.
+01:24:20	Steve Punitham:	kine between intranet and internet is blurring
+01:24:45	Hibin Maheendran:	What if we don't pass in that 1 attempt?
+01:24:56	Lily Nguyen:	Great to hear Jason!! Getting 3 certificates will also grant you 1 subject credit for one of our postgraduate courses as well ☺️
+01:25:24	K Pham:	After this class will all these materials (slide, video, etc) be email with the link??? SO how I am unable to open the link
+01:25:50	K Pham:	somehow*
+01:26:12	Oyekunbi Adetoro:	Is attendance at the webinars mandatory.  Is it okay to listen to the recordings afterwards?
+01:26:40	Lily Nguyen:	Unfortunately you'll only receive the Certificate of Completion if you pass the exam.
+01:26:46	John Frederick Sano:	Good day to everyone! from Philippines :)
+01:26:57	Jeziree Gaspar:	Good day
+01:27:00	vinal ram:	Where can I get the link for this on the web
+01:27:09	harry wwc:	@oyekunibi - is ok to listen to recordings
+01:27:09	Lily Nguyen:	Hi K, which link are you attempting to open?
+01:27:20	Osman Sevgikuranlar:	Hi everyone!
+01:27:23	Techy Cyber:	https://itmasters.edu.au/short-courses/introduction-to-cyberops/
+01:27:35	Patricia Mc Gurren:	is it possible to turn up the volume?
+01:27:37	Robert Maneswa:	Good day to you all from Zimbabwe..
+01:27:40	Lily Nguyen:	Webinar attendance is not mandatory, feel free to catch the recording if you can't make it!
+01:27:43	Sharmin Provhat:	https://learn.itmasters.edu.au/login/index.php
+01:27:50	Ashish:	is 27001 still relevant?
+01:28:04	Toton Liantoro:	Hi Everyone, nice to meet you all...🙂
+01:28:14	Muhammad Sajid Iqbal:	Good Aftrennon to everyone from Pakistan.
+01:28:28	Lily Nguyen:	We'll have the webinar materials (slides, video, etc.) available within 24 hours at http://learn.itmasters.edu.au
+01:28:28	K Pham:	http://learn.itmasters.edu.au/ (but im guess it be available within 24hrs) after this class?
+01:28:36	K Green:	Hmmm.  Originally Sec+ didn't specify internal/external.  Any idea when it began to diverge for this understanding of CyberSec vs/continuing InfoSec?
+01:28:57	AM Yulatic PAF:	how to get the certificates?
+01:29:07	Lily Nguyen:	The slides are already up on the short course portal for you to download.
+01:29:30	Angela Dimos:	Hello Lily. I never received my user name and password to log in and access the material for this course.
+01:29:47	Lily Nguyen:	You will need to receive a mark of 50% or more in the final exam to pass the course and receive a Certificate of Completion. If you pass your exam, the Certificate will be available for download in the Assessment section of your learning portal.
+01:30:02	K Pham:	ah ok, ill see I can download the slide, Thankyou
+01:30:11	cory McInnes:	surprised that DDOS attacks isn't on there
+01:30:25	Amay Mankad:	Is it possible to do this course and be eligible for credits to do Certificate IV Cybersecurity?
+01:30:31	Lily Nguyen:	Hi Angela, can you email your enquiry to admin@itmasters.edu.au so we can look into it?
+01:30:44	Angela Dimos:	👍🏻 Thanks Lily
+01:30:46	John Mire:	Whats the diff between 5 & 11
+01:30:52	Lily Nguyen:	🤗
+01:31:05	Benjamin Stokes Stokes:	6
+01:31:09	Lily Nguyen:	Remember everyone, if you have a question for the mentor, post it in the Q&A section.
+01:31:15	Paul Vorrasi:	go to Shodan.io to see how good IOT security is... its a great way of seeing peoples cams that they haven't secured
+01:31:24	Levi:	Im surprised brute force attacks isnt on there
+01:31:26	Emmanuel Otika:	I think 6 is also closely linked to 14
+01:31:41	Rohit Jain:	Is the exam online too and can be taken anytime.?
+01:31:45	K Green:	If I've filled out the interest in post-bachelor classes, what/when should I expect information?  I filled out the interest/you may get credit for professional certifications (CCNA, etc)
+01:31:48	Levi:	in Australia, its a huge problem, especially with FI's and internet banking
+01:31:55	cory McInnes:	^^
+01:31:59	Saron Mariathasan:	Snowden!
+01:32:13	Rob B:	Nation states are APTs, but not all APT are nation states
+01:32:31	Stuart McDonald:	Deep fakes are an example of #11
+01:32:43	George Kiio:	Hey everyone
+01:32:55	K Green:	Hey George
+01:33:01	Emmanuel Otika:	@ROb B: Thanks for the clarification
+01:33:12	Azfar Ahmad:	This link did not work: https://shodan.io/
+01:33:42	Cynthia Imari:	Hello.
+01:33:50	Levi:	the Optus hack happened because there is no info sec governance in that industry lol
+01:34:38	cory McInnes:	human error
+01:34:53	Paul Vorrasi:	@azfar you may need to use a VPN to get to it, your ISP may have blocked it
+01:35:17	Blu Corbel:	Eternal blue
+01:35:39	Dash Amr:	Just a heads up. Incident response consortium playbook link is 404 error
+01:35:58	K Green:	also zero day, zero days of warning
+01:36:22	Levi:	and also 0sec :)
+01:36:27	Laura Lees:	yes it was human error... not a lack of governance... they do have governance... there was someone that circumvented process
+01:36:31	Andrew Stewart:	the bad guys found it before the good guys
+01:36:36	Robin van Bergen:	https://cve.mitre.org has been replaced by https://cve.org
+01:36:53	Lily Nguyen:	Hi, did you fill out the IT Masters eligibility form?
+01:38:16	K Green:	Yes, looking up date now
+01:38:44	Levi:	Laura Lees compare the telecommunications industry to the financial industry regulated by APRA.. we are HEAVILY regulated, the telecommunications industry have accc/acma who don't focus on security
+01:39:21	Levi:	an info sec audit would have picked the API open to the world
+01:39:48	Levi:	even basic pen testing :)
+01:40:14	K Green:	11/27/23
+01:40:20	Jay Sharma:	isnt an employee also an asset ?
+01:40:26	Mat Sanchez:	are we going to learn about pen testing ?
+01:40:48	David Reuben:	Assets include value of that asset, more valuable / important, more effort to protect.
+01:41:39	Minh Trinh:	Hi Mat, there is a short course for pen testing
+01:41:47	K Green:	big problem is that coders are still taught to code, many haven't yet started to include "privacy by design" or DevSecOps
+01:41:53	Robin van Bergen:	so bad IT practices at Optus, not checking their products through pen testing/info sec audit regularly. A telco holds a massive amount of  information, most of it considered as PII, so protecting that should be a key priority
+01:42:05	Mat Sanchez:	Thank you I will look it up after this one thank you
+01:42:42	Blu Corbel:	ITMasters have a pentesting course I sat it and passed it's pretty good the have their own exam image you have to beat.
+It's 😎
+01:42:43	Salahdine AFFOUN:	Can we use Eisenhower's quadrant (important and urgent) to choose what we want to protect?
+01:42:45	T B:	The rainbow of hacker hat colours!
+01:42:59	Levi:	Robin, yes exactly. You know who is worse than Optus.. the real estate industry - they contain SO much PII data and RARELY implement any security on their systems
+01:43:37	Jason Brown:	Robin, Optus had statutory audits and pen tests on a regular basis. Having worked in telecoms, banking and other legally-secured organisations, it’s not just “doing the thing”, it’s “how you do the thing”. Nuance.
+01:44:13	Robin van Bergen:	probably right Levi. Agree Jason, there is nuance
+01:44:19	HS yap:	just quick pill if your govt related organizations liable for any data breach? we have had breaches and it seems those govt related organizations are not liable
+01:44:25	HS yap:	*poll
+01:44:41	Lily Nguyen:	Thanks, which email did you include in the form to be contacted on?
+01:46:00	Jonathan Deluao:	Is it possible to get a copy of the presentation material? Thanks heaps and much appreciate if it is possible
+01:46:33	Mat Sanchez:	can all these hacking attempt happen without any logs created ?
+01:46:56	Stuart McDonald:	Mat, yes
+01:46:58	Levi:	yes, if systems are configured to log correctly
+01:47:01	Lily Nguyen:	Hi Jonathan, you can download the slides here: http://learn.itmasters.edu.au
+01:47:02	Esteban Porras:	If a fail the exam, how can I get do the exam again ?
+01:47:02	Levi:	arent*
+01:47:10	Jason Brown:	“Can all these hacking attempt happen without any logs created” - sure, if you’re not collecting or retaining logs
+01:47:24	Rohit Jain:	@HS yap, I don’t think so the government related org will be liable.
+01:47:28	Joshua Clarke:	Is Threat Intelligence used by Red/Blue/Both teams ?
+01:47:30	Lily Nguyen:	Unfortunately everyone only gets 1 attempt at the exam.
+01:47:31	Levi:	a SIEM is a must for any business
+01:47:57	Vann Ten:	Don't forget if they were successful with the hacking attempts they can also clear those logs so they hide their tracks of any evidence of it happening in the first place..
+01:47:58	Ash Bennett:	Is this short course visible in the moodle app?
+01:48:08	Job Simukonda:	how do we get the slides
+01:48:37	Levi:	Vann Ten, not if your SIEM collects logs real time and is in its own DMZ
+01:48:38	Lily Nguyen:	Hi Job, you can download the slides here: http://learn.itmasters.edu.au
+01:48:39	Kusala Dehiwala Liyanage:	On the it masters page
+01:48:39	Robin van Bergen:	@Mat Sanchez, it's a fine balance between logging enough / not enough. Too much is noise, to little is likely compromise. As Levi mentioned, that's where a SIEM is a must. Clearing logs should be picked up by your EDR/XDR and alert on it
+01:48:55	K Green:	Actors not in it for a smash and grab usually try to remove log records of their activities, so it's not just are you keeping logs.  This is why you want >NTP for consistent logs and >Syslog or some other central/archivable place for logs.
+01:49:09	Mat Sanchez:	Thank you
+01:49:14	Vann Ten:	@Levi - Yes SIEM is a must these days..
+01:49:16	Yakubu Ayhok:	hello everyone, greetings from Yakubu here in Nigeria.
+01:49:36	Levi:	im actually writing some Splunk queries right now :)
+01:49:40	K Green:	Hello Yakubu
+01:49:41	Stuart McDonald:	@Robin, you hit the nail on the head. Most cyber incidents have a common theme of no logs or reduced logs
+01:49:48	Elias Mane:	my login details isn't working on the protal
+01:50:07	Elias Mane:	*Portal
+01:50:28	Shane Murphy:	Hi Elias you can reset your password form the log in page
+01:50:42	Libin Antony:	I haven't received the credentials yet. @Lily Nguyen will you please help me to get it
+01:50:49	Levi:	it's a great idea for businesses to conduct a Cyber Incident Response Exercise - to ensure if you need to retrieve logs you have them, and the right information in those logs to determine how, what and when
+01:51:02	Laura Lees:	Levi, On the regulation front though since APRA telcos have improve since they q2 suppliers to financial services/APRA regulated (under their third party assessments) and with SOCI telcos have also needed to improve though agree they still have a ways to go to get up to standard
+01:51:04	Joshua Clarke:	Correct me if I'm wrong but cisco stuff is generally at the Network Layer of the OSI model, we're discussing Application Layer and other stuff.
+01:51:08	Lily Nguyen:	Hi Libin, can you email your enquiry to admin@itmasters.edu.au so we can look into it?
+01:51:30	Laura Lees:	esp. compared to some of the mature global banks
+01:51:33	Kusala Dehiwala Liyanage:	What does cisco stand for
+01:51:33	Jason Brown:	“Most cyber incidents have a common theme of no logs or reduced logs” -> honestly even if you think you’re keeping excessive logs, they may still be insufficient. Thing is, logging is not free.
+01:51:44	David Reuben:	@Stuart, or not bother to check the logs...
+01:51:46	Levi:	Laura, Yes I have heard that - hopefully they can mature really fast :)
+01:51:51	jeffrey Phuah:	Don't a NOC do something similar?
+01:52:32	Laura Lees:	regular pen testing is the way to go.. not just a once a year program
+01:52:34	Stuart McDonald:	@Jason, yes you are right. Cost $$
+01:52:40	Delight Aniche:	My login credential on the portal is not working
+01:52:56	Levi:	Pen testing for all external ips should be performed monthly..
+01:53:28	K Green:	@David, that's the problem with functional troubleshooting as well, other than a solid state drive failure there are always indicators in the logs if you turn them on and read them
+01:53:47	Mat Sanchez:	interesting this PEN testing a must it seems. Is that a Linux based ?
+01:54:02	Jason Brown:	“Pen testing for all external lips should be performed monthly” -> You’re probably getting pen tested for free on a constant basis, if you’re on the internet. But HEY, I WISH I HAD YOUR (imaginary) BUDGET
+01:54:23	Laura Lees:	(pen testing) at least assessed for every change that is being implemented
+01:54:38	Levi:	when you make the board/directors understand the importance of pen testing - they will throw money at it
+01:54:54	Jason Brown:	Good luck with that Levi
+01:54:57	Rob B:	@Levi on who's budget!  Pentesting is expensive haha :)
+01:55:08	Rylan Painter:	You might mean vulnerability scans on all external infra monthly, not pen testing.
+01:55:20	Robin van Bergen:	In my experience: security induction when starting, followed by continuous awareness programs, phishing tests, red teaming , knowledge awareness training, which could lead to face training if low (<80%) score
+01:56:03	Laura Lees:	to be realistic though you are best to spread budget across different layers including prevention like secure configuration baselines and secure coding practices
+01:56:17	Levi:	haha, I work for a Bank, we vulnerability scan weekly (workstations,laptops,firewalls,switches) and pen test our internet banking/external ip addresses monthly - its actually not that expensive
+01:56:28	Laura Lees:	agree with you Robin
+01:56:58	Rylan Painter:	Internal pen testing team, Levi?
+01:57:02	Laura Lees:	vulnerability scan is different to pen testing though
+01:57:05	K Green:	@Steve careful, CCNA was the Cisco cert, then it diverged to themed CCNA like Routing and Switching, or Network Security (you needed to know routing/switching to learn the NetSec).  Then they streamlined to CCNA ** except for CyberOps is its own thing **
+01:57:08	Rod Hendricks:	What did SMA stand for?
+01:57:17	Massih Ayubi:	In the right side of the network i miss some roll based segmentation of the network.
+01:57:19	Laura Lees:	which bank @Levi?
+01:57:22	Rob B:	ah..a banks budget  :0 say no more fam :D
+01:57:31	Jason Brown:	@Levi an internal vulnerability scan is NOT a pen test.
+01:57:43	K Green:	CCNA = basically still for routing & switching with some dev and some sec now rolled in
+01:57:54	Levi:	no, we have an external partner who does our pen testing, internal pen testing is once a year
+01:57:56	T B:	Vulnerability scanning forms part of a pen test.. =/= pen test.. no? ;'O
+01:57:59	Jason Brown:	@Levi I’m gonna go ahead and guess you’ve never signed off on a purchase order for an ACTUAL pen test
+01:58:00	Laura Lees:	even Banks budgets are limited...
+01:58:03	Robin van Bergen:	@Rob: There are small and big banks with varying budgets / team sizes ;-)
+01:58:20	Steve Punitham:	Cisco founded in San Fran Cisco
+01:58:26	Benjamin Fitzpatrick:	San FranCisCo
+01:59:08	Levi:	Like I said, when the board/directors understand how important cyber/info sec is when you work in a Bank, they dont care how much money they throw
+01:59:13	Joshua Clarke:	Orgies ?  Oh, Ogres
+01:59:20	Levi:	Banks make a huge profit here in Australia
+01:59:34	Robin van Bergen:	Cisco came from San Francisco, where they originated. Their logo is the Golden Gate Bridge which is located there
+01:59:35	T B:	As long as you can convince them it's important
+01:59:43	Levi:	Jason, we just renewed our contract with our pen tester
+01:59:46	Rob B:	I'm guessing a bank that does pen test monthly on external IPs is not a small bank.  The perimeters they have are insane.
+01:59:47	harry wwc:	https://www.linkedin.com/pulse/swiss-cheese-model-cybersecurity-hicham-faik
+02:01:58	Blu Corbel:	Since we are giving out links if you need anything to reference against for attacks my page is full of useful PDFs.
+
+https://www.linkedin.com/in/blu-corbel-bb5700265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
+02:02:23	Jason Brown:	I’m also guessing that a bank constantly doing a pen test is going to have to have serious amounts of internal resources to differentiate an external pen testing firm’s traffic from an actual attacker’s traffic.
+02:02:39	Levi:	Jason: 2k a month for our monthly pen test, 50k a year for our weekly SIEM reporting
+02:02:40	Jason Brown:	I’ve worked in a payments processor in the past and pen test month is a proper pain in the ass
+02:03:07	Jason Brown:	$2k a month ok. This isn’t a big bank everyone
+02:03:31	K Green:	and FAIR by OpenFAIR Group is working on making it quantifiable so boards and finance controllers can have numbers
+02:03:33	Levi:	yeah we're no CBA, 4b in assets
+02:04:34	Colleen Crisp:	NIST has updated the framework version 2.0 to include Govern
+02:04:36	Robin van Bergen:	@Levi: member owned bank / mutual, judging by the size?
+02:04:38	jeffrey Phuah:	risk matrix?
+02:04:44	Levi:	Robin yep :)
+02:04:48	K Green:	can people put their links into the forum please?  things in this chat are not copy/paste so we need to retype the whole URL into notes
+02:04:50	Robin van Bergen:	:-)
+02:05:15	Laura Lees:	@K Green, are you involved whey FAIR?
+02:05:36	Tim S:	@ Jeffrey Phuah, I was just about to say the same thing. Risk Assessment Matrix 😎
+02:06:09	Steve Punitham:	optus hack resulted in some obligations
+02:06:23	Job Simukonda:	is the recording going to be available for us
+02:06:28	Zoom user:	Do you think they are actually doing a risk analysis, I don’t think they are!
+02:06:31	K Green:	Because "How much risk do we have?"  'some'  "And how much risk will we have if we spend money on you to fix this?"  'less'  is why we have problems getting buy-in until you or someone you know gets hacked
+02:06:42	Genesis Amado:	am i late already?
+02:06:53	Paul Vorrasi:	I'm the only Paul Vorrasi on the Planet :)
+02:06:55	Lily Nguyen:	We'll upload the chat transcript for everyone who's interested in the links being posted!
+02:06:59	T B:	my name is revoltingly unique I hate it
+02:07:06	Levi:	K Green: it's all about residual risk :D
+02:07:14	Laura Lees:	I have to head tough thanks for the conversation :) look forward to chatting via the forum/next week
+02:07:44	Blu Corbel:	Just click on the links they are live so you can go to the page and it's in your history for later.
+02:08:08	K Green:	the short version is that it's a fuzzy range, get it to the scope/range you are comfortable with and then a bunch of Monte Carlo simulations... would you bet your life guessing my height without knowing anything about me?  probably not.  would you bet your life my height is between 6 inches and 16 feet? yes.
+02:08:17	K Green:	then you narrow that range
+02:08:34	K Green:	you never get to an exact, just a manageable range
+02:08:52	jeffrey Phuah:	https://en.wikipedia.org/wiki/Cisco
+02:09:33	K Green:	Thank you Lily!!!! That would be great!!!!
+02:09:43	Lily Nguyen:	Of course 🤗
+02:09:59	Amitha K R:	Thanks
+02:10:01	Tim S:	i cannot believe number porting is so easy and dangerous. What a massive vulnerability especially when  people use it for MFA
+02:10:47	Robin van Bergen:	Number porting is getting harder and harder in Australia, they have learned something from previous breaches fortunately
+02:11:10	Levi:	yeah, and we need to get rid of 2FA using SMS
+02:11:10	Ash Bennett:	you'd be surprised how much information banks give their call centre staff, its scary
+02:11:12	Anne Badger:	can lead to identity fraud to claim payments through Centrelink eg for disaster payments
+02:11:12	K Green:	(and yes I have CCNA and CCNA Network Security and been through the Cisco training to teach CCNA - Cisco CyberOps is NOT part of Cisco CCNA - CCNA stands for Cisco certified network analyst)
+02:11:37	Shane Murphy:	Portability is  a complex issue - can you imagine the kerfuffle if it was made harder? A lot of work went into setting it up because lack of portability was a major competitive dampener.
+02:11:59	Lily Nguyen:	If you haven't received a follow-up email after filling out the eligibility form, you can reach out to our lovely Eligibility Officer Anna directly at eligibility@itmasters.edu.au 🙂
+02:12:08	K Green:	@Shane do you mean data in motion, or shared data?
+02:12:09	T B:	@Ash Bennett can confirm I used to work for a bank and the amount of information I had access to was actually wild
+02:12:18	Steven Moore:	associate not analyst k green...
+02:12:44	Levi:	@TB - we give call centre basic enquiry access - they can't really do much more
+02:13:05	K Green:	versus P for professional yes, but my point is it's network not cyber
+02:13:09	Mat Sanchez:	SOC = Data Centres ?
+02:13:13	Levi:	i just wish our banking system provider had security in mind over just making profit
+02:13:24	Robin van Bergen:	@Mat: Security Operations Centre
+02:13:30	abeer albalushi:	security operation center
+02:13:33	Jason Brown:	SOC =. Security Operations Centre Mat
+02:13:45	T B:	@Levi - A lot of our access was enquiry only, however there was definitely more than necessary
+02:13:46	Mat Sanchez:	Thank you
+02:13:56	Levi:	now thats something that costs an arm and a leg.. a SOC
+02:14:20	Jason Brown:	Meh, SOC can be a cubicle.
+02:14:24	Jason Brown:	Again, nuance
+02:14:28	Blu Corbel:	I can set up a remote cloud soc ran on active directory for about $500
+02:14:34	John Oladipo:	@TB. I am sure the amount the data you have access to are critical information needed for you to efficiently perform your tasks.  Most banks employ data minimization in their policies.
+02:14:47	Salahdine AFFOUN:	SOC people must have follow  a specific training courses?
+02:14:53	Genesis Amado:	what is the next step after finishing this 4 weeks short course to land a job in the cyber sec community?
+02:14:55	cory McInnes:	they are usually 24 hour too
+02:14:58	Mat Sanchez:	so SOC can be located inside a Data Centre ?
+02:15:25	Massih Ayubi:	SOC is a team not a device to be placed in DC
+02:15:48	Jason Brown:	It CAN be in a data centre. In a small company it can be a virtual group. In a VERY small company it can be one or two people who are committed to 24hr coverage
+02:15:51	jeffrey Phuah:	Anyone heard of esentire? https://www.esentire.com/?utm_source=google&utm_medium=cpc&utm_campaign=brand-anz&utm_content=brand&sfcampaignid=701OI000005CM6kYAG&gad_source=1&gclid=Cj0KCQiAqsitBhDlARIsAGMR1RgiVjsKRGQE_VX_MIIqq_T2Nu2Y4b-RtLmASMsE_jWtuzdx-16DH0IaAn2UEALw_wcB
+02:15:59	Blu Corbel:	a security operations center can be ran from a laptop at home remotely.
+02:16:03	Salahdine AFFOUN:	soc is a team and they have to work remotely rather than be located in DC?
+02:16:03	Robin van Bergen:	@Cory, a SOC which is not 24x7x365 is a waste of money, but you also need staff to respond to alserts from SOC to have any effect
+02:16:08	T B:	@John - Most was necessary (basic PII for authentication purposes), however we then had far more access to financial history and other aspects of a person/organistion's financials than required. A lot was unnecessary.
+02:16:27	K Green:	@Jeffrey no but I'm going to look it up, thanks
+02:16:56	Levi:	I agree Robin
+02:17:50	cory McInnes:	true its expansive but my gov org has a 24hr CSOC
+02:18:25	Jason Brown:	I _am_ the SOC at my current company. Hopefully not for long, but for various reasons I’ve lost a bunch of on-call resource recently. A SOC does not have to be an aircraft carrier full of nerds
+02:18:31	Troy Paterson:	SOC that cover 24x7x365 (follow the Sun service) are expensive.
+Larger orgs will use MSSP
+02:18:42	Lily Nguyen:	We'll be closing the Q&A very soon so if you have a question for the mentor, post it in the Q&A section.
+02:18:44	Mat Sanchez:	mygov? didn't they get hacked recently or maybe I thinking of someone else
+02:18:56	Levi:	Jason, I can imagine you have a nice setup at home to monitor everything :D
+02:19:24	Robin van Bergen:	@Jason: 100 inch screens :-)
+02:19:40	T B:	🥲
+02:19:43	K Green:	since we're compare/contrast to Cisco CCNA and Cisco CyberOps please know they are transitioning NetAcad to SkillsForAll, and that there is maintenance for this Fri/Sat urgently, and scheduled 23 February
+02:20:02	Jason Brown:	@Levi yeah, I have a few machines. I can see eight computer screens from my desk. Ironically the one that usually shows the dashboard… is blank
+02:20:20	Jason Brown:	I’ll turn it back on in a bit.
+02:20:37	Mat Sanchez:	Jason you work for a bank ?
+02:20:47	Jason Brown:	Nope, startup in the NDIS space
+02:20:49	jeffrey Phuah:	Mean Time to Contain = 15 mins
+02:20:50	Tim S:	@ Jason Brown - but a "an aircraft carrier full of nerds" sounds like an awesome place to work 😁
+02:21:20	Jared T:	+1 @Tim :P
+02:21:27	Robin van Bergen:	not in North East Queensland Australia at the moment, with the cyclone approaching
+02:21:42	Benjamin Stokes Stokes:	Awesome - Thanks!
+02:21:53	Fatima Alaqel:	Thanks
+02:21:55	K Green:	right, be safe and well as you can with weather coming in !!!
+02:21:56	Blu Corbel:	https://the-mad-hatters-playground.com
+https://themadhattersplayground.org.uk
+If you want to learn how to hack and play about without consequences contact them
+02:22:00	Esteban Porras:	perfect
+02:22:00	Amy Argus:	Thank you so much Matt!
+02:22:04	Claudia Sze:	Thanks, a good presentation
+02:22:06	Jason Nash:	Does the quiz contribute to your final grade, or only exam score?
+02:22:06	Rajesh Goka:	rajesh, thanks
+02:22:10	Osman Sevgikuranlar:	Thank you
+02:22:18	K Pham:	Thankyou!!!!!!
+02:22:19	Edward Naing:	Thank you Matt!
+02:22:19	Jason Brown:	Cheers all!
+02:22:22	Blu Corbel:	I did its on my LinkedIn already working
+02:22:29	Steven Edgar:	Thanks! : )
+02:22:30	Pierre Spano:	Cheers
+02:22:30	Jibril Dauda Muhammad:	Thank you
+02:22:35	John Frederick Sano:	Thank you!! :)
+02:22:36	Amy San Luis:	Thank you.
+02:22:36	Margaret Keast:	Thanks Matt
+02:22:37	Sharmin Provhat:	Nice presentation- Thanks!
+02:22:41	Rajan Ramasamy:	Thanks
+02:22:50	Will McClure:	link works on http not https
+02:22:50	Mat Sanchez:	Hi Blue sorry what are those links ?
+02:22:55	Steve Sim:	Thanks Matt and team, good session.
+02:22:58	Paul Vorrasi:	thanks Matt
+02:23:06	T B:	Thanks Matt!
+02:23:07	Jibin:	Thanks
+02:23:09	Chor-Lam Ng:	Thankyou Matt, great presentation!
+02:23:09	Galaxy A51:	Thank you, very new to this.
+02:23:09	Peter Reimpell:	http://www.incidentresponse.org/playbooks/ works for me
+02:23:14	Philip Llamas:	Thanks Matt!
+02:23:16	Anietie Emmanuel:	thanks.
+02:23:23	Peter Reimpell:	Thx
+02:23:27	Kirk Dugdell:	Thanks Matt
+02:23:27	Rose Anne Sampaga:	Thanks Matt!
+02:23:29	Robin van Bergen:	who uses http these days …..
+02:23:30	Lei Liu:	Thanks Matt
+02:23:31	Rich. Neumann:	Thanks Matt!
+02:23:33	Techy Cyber:	Cool. Lesson
+02:23:34	Jerome Ungria:	Thank you Sir!
+02:23:35	Siti Zahari:	Thanks
+02:23:48	Jason Brown:	On the WFH question, I have some small experiences in that exiting staff have sometimes sent laptops with private keys sitting on the drive back to main office in an Uber.
+02:23:49	sridhar jayadavan:	thank you
+02:23:59	Lily Nguyen:	We’ve closed the Q&A for tonight so we can finish on time but pop your question in the discussion forum https://learn.itmasters.edu.au/mod/forum/view.php?id=5784
+02:23:59	Jared T:	Appreciated, thankyou all,
+02:24:08	ET .:	Thanks
+02:24:12	Kaden Davis:	Thank you
+02:24:12	Ritesh Shrestha:	Thank you
+02:24:12	Ash Bennett:	Thanks Matt, great mod lecture!!
+02:24:18	Steven Edgar:	Thanks Lily!
+02:24:26	Rushley Ebero:	@Robin van Berger Bureau of Meteorology 😂😅
+02:24:27	Esteban Porras:	Thanks everyone
+02:24:32	Jason Brown:	Luckily, they generally have encrypted drives, HOWEVER I can see vulnerabilities there
+02:24:34	Pauline Spinaze:	Playbooks works on Chrome!
+02:24:41	Lily Nguyen:	😇
+02:24:42	Virender Singh:	awesome presentation. Appreciate your work for us
+02:24:43	Levi:	Rushley bahaha
+02:24:53	Maab Osama:	Thank you matt for the amazing lecture
+02:24:54	Robin van Bergen:	Thanks Shane, Lily, Matt. Good session, enjoy your day off tomorrow (for those in AU)
+02:24:59	K Green:	I just had a blip in sound.  I suppose I'll catch that in recording?
+02:25:03	040919028 - Abrokwah Nabert - Ta'adi:	Good presentation. Please how can we get access to the link for the lessons and quiz?
+02:25:12	Kirk Dugdell:	http://incidentresponse.org/playbooks/phishing
+02:25:19	Levi:	Thanks guys have a good night - see you next week :)
+02:25:27	Lily Nguyen:	Thanks Robin, have a good one!
+02:25:40	040919028 - Abrokwah Nabert - Ta'adi:	Thanks
+02:25:41	Reynaldo Martinez:	Thank you Matt. Great presentation
+02:25:48	Lily Nguyen:	Thanks for attending everyone, we hope you've enjoyed tonight’s webinar - see you next week! We'll have the webinar materials (slides, video, etc.) available within 24 hours at http://learn.itmasters.edu.au
+02:25:50	KELVIN JOHNSON - NIGERIA:	Very great presentation today. Thanks a lot
+02:25:50	f m:	just checked in(!) please publish the links so I can listen in again
+02:25:50	Mat Sanchez:	Hi Kirk, File not found (404 error
+02:26:03	Nadeem Ishaq:	Thanks very informative
+02:26:14	Kirk Dugdell:	I had to remove the S in https
+02:26:15	Lily Nguyen:	Make sure you've registered for the short course to access the learning portal: https://itmasters.edu.au/short-courses/introduction-to-cyberops/
+02:26:23	ET .:	Use http instead of https
+02:26:25	Blu Corbel:	https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=https://assets.publishing.service.gov.uk/media/61702155e90e07197867eb93/20210625-Red_Teaming_Handbook.pdf&ved=2ahUKEwiJlovkqPiDAxVpXEEAHTBFAmsQFnoECAwQAQ&usg=AOvVaw3rmDsNcbnzC_ThF1xO10y2
+02:26:27	Steven Edgar:	http://incidentresponse.org/playbooks/  (note the http)
+02:26:27	Shane Murphy:	The issue is that our browsers now insert https not http. if you delete the "s" it works!
+02:26:35	Sharmin Provhat:	Thanks Lily Nguyen, for your clarification.
+02:26:48	Samuel Agorvor Attah:	Thumps Up Matt, great presentation
+02:27:11	Blu Corbel:	right ok 🤣🤣 it was both
+02:27:16	Jason Nash:	The Onion Router
+02:27:28	Rushley Ebero:	Is Ruby going to replace JavaScript?
+02:27:31	David Reuben:	I remember some time ago a security government Agency was attacked, but not directly.  They went through a contractor to the Agency...
+02:27:35	Andrew Stewart:	urgent important
+02:27:39	Benjamin Fitzpatrick:	Important/Urgent
+02:27:46	Benjamin Fitzpatrick:	Not important/NotUrgent
+02:27:54	K Green:	like the Target hack they went through the contracted HVAC
+02:27:59	Lily Nguyen:	If you'd like to discuss your study options and eligibility fill in our simple form https://www.itmasters.edu.au/am-i-eligible/ 😁
+02:28:19	Grant Barrie:	Proactive - fix it before it breaks. Reactive - fix it after it breaks
+02:29:09	Jason Brown:	“Is Ruby going to replace JavaScript” - hey everyone a time traveller has arrived from 2004
+02:29:14	Troy Paterson:	actively threat hunting
+02:29:18	Job Simukonda:	Great presentation,have learnt a lot and looking forward next lecture
+02:29:30	Troy Paterson:	maybe looking for new IOC that you can use to search on
+02:29:36	Elias Mane:	really learnt alot
+02:29:48	jeffrey Phuah:	Ongoing monitoring for anomalies is being proactive
+02:29:51	Rogelio De Leon:	Thanks IronMan Matt 🙂
+02:29:53	Blu Corbel:	Thanks Matt
+02:29:59	Rob B:	proactive would be threat hunting
+02:30:02	Andrew Stewart:	reactive is in response to an event, proactive is programmed
+02:30:04	Bahtiyar Yusuf:	I joined late, is there a recording video?
+02:30:09	jeffrey Phuah:	Reactive is when shit hits the fan
+02:30:13	Dash Amr:	Thank you so much all Thanks Matt and Team
+02:30:19	Sharon Tainsh:	🤓 I have a lot to learn - this has been fantastic
+02:30:20	Martin Devasia:	Thanks Mat
+02:30:26	Joshua Clarke:	Recovery Point
+02:30:49	rashmi bandara:	Thank you so much Matt and team.
+02:31:18	K Green:	have you started to move from CIA to DIE?
+02:31:24	Reynaldo Martinez:	Reactive - Start the investigation, actions after an issue; Proactive - Investigate, Monitoring, Update and Training before something happen
+02:31:44	Andrew Stewart:	we also define the staged RTO, prioritise which systems are resovled first
+02:31:46	Tim S:	@Andrew Stewart - and Unreactive is staff asleep at their desk, and the alarm bells all ring
+02:31:49	Benjamin Fitzpatrick:	TYSM Matt
+02:31:50	Patrick Tsang:	Thank you!!
+02:31:50	Kerilyn Lalor:	Thanks!
+02:31:50	Mat Sanchez:	Thank you
+02:31:57	James Troup:	Thanks Matt!
+02:31:58	Robin van Bergen:	RPO typically refers to the last backup/snapshot moment
+02:31:58	Andrew Rae:	Thanks Matt
+02:31:59	M Frewen:	thanks
+02:31:59	John Oladipo:	Thank you Matt
+02:32:00	K Green:	right, proactive = better and less damage but hard to cost out, reactive = oh crud save us now
+02:32:03	Nevin:	Thank you
+02:32:04	Joshua Clarke:	👍
+02:32:07	Pauline Spinaze:	Thank you Matt & Team!
+02:32:08	John Mire:	later!
+02:32:09	Steve Punitham:	feeling more secure now. Thanks
+02:32:10	Hany Hanna:	When will the recording be available online???
+02:32:15	Salahdine AFFOUN:	Thank you.
+02:32:15	Brett Sander:	Thanks Matt
+02:32:26	Tim S:	thanks Matt and the team
+02:32:26	Andrew Stewart:	Brilliant Matt, so much but well covered
+02:32:26	Minh Trinh:	Thank you Matt, Shane, Lily and everyone, have a good night and a great week ahead 😀
+02:32:28	Bahtiyar Yusuf:	Thanks Matt
+02:32:30	Emeka Osuocha:	Thank you so much
+02:32:31	K Pham:	Coolies
+02:32:32	yuk ping leung:	thanks !!
+02:32:33	robert kardas:	Thank you Matt and the team
+02:32:33	Elias Mane:	Thank you Matt
+02:32:34	john daka:	Thank you so much
+02:32:35	Justin Barbour:	Thanks all!
+02:32:35	Rushley Ebero:	Thanks :)
+02:32:35	Lily Nguyen:	All webinar materials (slides, video, etc.) will be made available within 24 hours at http://learn.itmasters.edu.au
+02:32:36	Allison Fabian:	Thank you
+02:32:38	K Pham:	Thankyou everyone!!!!!
+02:32:38	Karen Gottlieb:	thank you 🙏
+02:32:39	yuk ping leung:	have a good day/night!
+02:32:39	cory McInnes:	Thank you Matt!
+02:32:40	Chibuzor A. Eligwe:	Thank you Matt
+02:32:42	Andrew Stewart:	Thanks team
+02:32:42	Warren Chung:	Thanks Matt & Shane!
+02:32:42	Benjamin B Oduro:	Thanks
+02:32:43	Aphelele Kubeka:	Thank you!
+02:32:44	Hema Thamodarar:	thank you matt
+02:32:44	jeffrey Phuah:	Thank youand good night!
+02:32:45	Belinda Ale:	Thankyou
+02:32:46	David Taylor:	Thank you
+02:32:46	Daniel Okonokhua:	Thanks everyone
+02:32:47	Amy Argus:	Thank you!!
+02:32:48	Jude Okechukwu Nwankwo:	Thank u
+02:32:49	Pratap Sewak:	Thanks to IT Masters. Good Night to everyone. See you next week
+02:32:49	Rogelio De Leon:	Thanks also to Shane and Lily
+02:32:49	Sharmin Provhat:	Thank and good night
+02:32:49	ET .:	gudnyt
+02:32:49	Techy Cyber:	Thank you and goodnight
+02:32:50	Nelson Guillen:	Thank you
+02:32:50	Troy Paterson:	all good - that 90- minutes went fast
+02:32:50	Sekhmet:	Thanks everyone
+02:32:51	Kerilyn Lalor:	'night
+02:32:51	Stevenson Otalifua Konainao:	Thanks
